@@ -1,0 +1,52 @@
+# General
+.DS_Store
+Thumbs.db
+Desktop.ini
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# IDE and Editor Files
+.idea/
+.vscode/
+.project
+.classpath
+.settings/
+.c9/
+*.launch
+*.swp
+*.tmp
+*.bak
+
+# React Specific (adjust paths if necessary, e.g., frontend/node_modules)
+/node_modules
+/build
+/dist
+/coverage
+.pnp
+.pnp.js
+.eslintcache
+.stylelintcache
+.npm
+*.tgz
+
+# Spring Boot/Java Specific (adjust paths if necessary, e.g., backend/target)
+/target/
+/out/
+*.class
+*.jar
+*.war
+*.ear
+hs_err_pid*
+.gradle/
+.m2/
+test-reports/
+
