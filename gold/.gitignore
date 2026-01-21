@@ -49,4 +49,7 @@ hs_err_pid*
 .gradle/
 .m2/
 test-reports/
-
+../../node_modules/
+../../../../pass.txt
+*/node_modules/
+*/pass.txt
